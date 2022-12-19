@@ -33,7 +33,7 @@ const Index = () => {
           <GradientHeading fontSize="6xl" title="Quizlingo" />
 
           <Text color="text">
-            Spanisch lernen im spielerischen Duell mit <br />
+            Französisch lernen im spielerischen Duell mit <br />
             <Code>Next.js</Code> + <Code>chakra-ui</Code> +{" "}
             <Code>TypeScript</Code>.
           </Text>
