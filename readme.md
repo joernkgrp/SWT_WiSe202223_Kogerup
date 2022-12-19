@@ -2,8 +2,8 @@
 
 Hallo und herzlich Willkommen. Dies ist ein Test zu einer Readme-Datei. Es folgt mein Lieblingsgedicht:
 
-« Et la mer et l’amour… » (1628)<br>
-<br>
+## « Et la mer et l’amour… » (1628)
+
 Et la mer et l’amour ont l’amer pour partage,<br>
 Et la mer est amère, et l’amour est amer,<br>
 L’on s'abîme en l’amour aussi bien qu’en la mer,<br>
