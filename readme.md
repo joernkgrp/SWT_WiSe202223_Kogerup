@@ -18,6 +18,6 @@ Mais l’eau contre ce feu ne peut fournir des armes.<br>
 <br>
 Si l’eau pouvait éteindre un brasier amoureux,<br>
 Ton amour qui me brûle est si fort douloureux,<br>
-Que j’eusse éteint son feu de la mer de mes larmes.
+Que j’eusse éteint son feu de la mer de mes larmes.<br>
 <br>
 Pierre de Marbeuf, 1596–1645
